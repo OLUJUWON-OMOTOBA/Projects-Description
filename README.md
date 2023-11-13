@@ -34,7 +34,7 @@
 
 
 
-### Project 2: Beverage Sales Data**
+### Project 2: Beverage Sales Data
 
 **Description:**
 The "Beverage Sales Data" Power BI project is a compelling exploration of the beverage industry's sales landscape, providing a comprehensive visual representation of key metrics and trends. This project transforms raw sales data into actionable insights, enabling stakeholders to make informed decisions and capitalize on opportunities within the dynamic beverage market.
