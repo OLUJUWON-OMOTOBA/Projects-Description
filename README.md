@@ -28,3 +28,6 @@
 
 **Conclusion:**
 "Adventureworks Visualized Data" is not just a collection of charts; it's a strategic tool that transforms data complexity into simplicity, enabling stakeholders to navigate the AdventureWorks dataset with ease and extract valuable insights for sustainable business growth.
+(https://github.com/OLUJUWON-OMOTOBA/Projects-1/assets/134015058/1179dc02-83d2-4243-be56-83feee35fc47)
+
+![Screenshot 2023-11-22 212535](https://github.com/OLUJUWON-OMOTOBA/Projects-1/assets/134015058/dda25bc7-4198-41db-81dd-887e99f4c41d)
